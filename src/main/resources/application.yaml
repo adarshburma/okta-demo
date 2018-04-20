@@ -2,8 +2,6 @@ spring:
 security.oauth2.client.clientId: 0oaes4bs3wCLYhiGZ0h7
 security.oauth2.client.clientSecret: namHfdUqJXlFN0FXBGrvOoTmk3_XiGu-h5zKpOur
 security.oauth2.client.scope: openid offline_access
-redirecturi: http://localhost:8080
-state: state-296bc9a0-a2a2-4a57-be1a-d0e2fd9bb601
 username: adarshburma@iheartmedia.com
 password: Saampling21!
 refreshtoken: u4ZFdKpbePpfia3UNS9yA4lnVuKTYpcA2qCDTcGgz88

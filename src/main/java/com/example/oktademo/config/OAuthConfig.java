@@ -24,12 +24,6 @@ public class OAuthConfig {
     @Value("${password}")
     private String password;
 
-    @Value("${redirecturi}")
-    private String redirecturi;
-
-    @Value("${state}")
-    private String state;
-
     @Value("${refreshtoken}")
     private String refreshtoken;
 
