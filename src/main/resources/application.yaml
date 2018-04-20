@@ -1,0 +1,28 @@
+spring:
+security.oauth2.client.clientId: 0oaes4bs3wCLYhiGZ0h7
+security.oauth2.client.clientSecret: namHfdUqJXlFN0FXBGrvOoTmk3_XiGu-h5zKpOur
+security.oauth2.client.scope: openid offline_access
+redirecturi: http://localhost:8080
+state: state-296bc9a0-a2a2-4a57-be1a-d0e2fd9bb601
+username: adarshburma@iheartmedia.com
+password: Saampling21!
+
+security:
+  basic:
+    enabled: false
+#security.oauth2:
+#  client:
+#    client-id: 0oaerwr5kdenjNo4w0h7
+#    client-secret: zJHRyMeUINOBeeAqRd_FKrj4mh6i3eC6l4AKtYVY
+#    client-authentication-scheme: form
+#    authentication-scheme: header
+#    grant-type: authorization_code
+#    access-token-uri: https://dev-978191.oktapreview.com/oauth2/ausertyr58t13JgrD0h7/v1/token
+#    user-authorization-uri: https://dev-978191.oktapreview.com/oauth2/ausertyr58t13JgrD0h7/v1/authorize
+#    pre-established-redirect-uri: http://localhost:8080
+#    registered-redirect-uri: http://localhost:8080
+#    use-current-uri: false
+#    scope: openid email profile
+#  resource:
+#    user-info-uri: https://dev-978191.oktapreview.com/oauth2/ausertyr58t13JgrD0h7/v1/userinfo
+
