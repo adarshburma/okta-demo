@@ -30,5 +30,8 @@ public class OAuthConfig {
     @Value("${state}")
     private String state;
 
+    @Value("${refreshtoken}")
+    private String refreshtoken;
+
 }
 

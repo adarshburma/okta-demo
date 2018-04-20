@@ -34,7 +34,7 @@ public class OktaTokenService {
 
 
     public String getAccessToken() throws Exception{
-        String refreshToken = this.getRefreshToken();
+        String refreshToken = oAuthConfig.getRefreshtoken();
         Response response = oktaTokenProxy
                 .getAccessToken(generateBase64Token(), "refresh_token", refreshToken , oAuthConfig.getScope());
         String responseBody = Util.toString(response.body().asReader());

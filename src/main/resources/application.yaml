@@ -6,6 +6,7 @@ redirecturi: http://localhost:8080
 state: state-296bc9a0-a2a2-4a57-be1a-d0e2fd9bb601
 username: adarshburma@iheartmedia.com
 password: Saampling21!
+refreshtoken: u4ZFdKpbePpfia3UNS9yA4lnVuKTYpcA2qCDTcGgz88
 
 security:
   basic:
